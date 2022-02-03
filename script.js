@@ -1,11 +1,11 @@
 
 
 let name="Ste";
-let number="21";
+let number=21;
 let subtract= 2022 - number;
 
 
-console.log (subtract + 21);
+console.log (subtract + number);
 console.log ("estou mexendo no console.log");
 
 
